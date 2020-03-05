@@ -1,0 +1,23 @@
+program example3
+	declare a,b,c,d,temp;
+		function one (in g)
+    		k:=2;
+    	endfunction
+		if (a<c and b<d ) then
+		exit
+		endif;
+		if (a=e) then
+		   c:=r
+		   else
+		   loop
+		   if (AAA<=d) then
+		   a:=1
+		   endif;
+		   a:=666
+		   endloop
+		   endif
+	 	   g:=one(in XXXXXXXXX)
+		   temp:=px;   
+		   x:=1;   
+		   y:=2
+endprogram

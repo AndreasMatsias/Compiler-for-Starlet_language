@@ -1,0 +1,19 @@
+/*comments*/
+program example4
+	declare a,b,c,d,e,x,y,px,py,temp;
+	loop	
+		if (a<c and b<d) then
+		exit
+		endif;
+		forcase
+			when(x<666) : x:=FIR
+			default: x:=r enddefault
+		endforcase
+		
+		x:=1;
+	endloop
+	x:=2;
+	incase
+		when(x<y) : x:=p
+	endincase
+endprogram

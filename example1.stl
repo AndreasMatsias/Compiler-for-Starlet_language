@@ -1,0 +1,26 @@
+/*comments*/
+//fgdsrgerd
+program example1
+	declare d,i,g,f;
+    function two (in g)
+    	function three (in g, inout x, inandout m)
+    	
+    		k:=2;
+		print HHH
+    		j:=1;
+		
+    		
+    		if (k>=i or k>666) then 
+    			k:=1-1               
+    			endif
+    			m:=1
+    			x:=7
+    	endfunction      
+    		i:=123
+    endfunction
+    	x:=1
+	x:=3  
+        i:=666;   
+        g:=i;
+       
+endprogram

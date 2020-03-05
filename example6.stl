@@ -1,0 +1,10 @@
+program example6
+	declare c,a,b,t;
+    	while(a<1 and b<5)
+		if(t=1) then c:=t
+		else c:=123
+		endif
+	endwhile
+	a:=1*12+12
+
+endprogram
